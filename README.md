@@ -1,5 +1,5 @@
 # Calculator
-[](https://hariom24777.github.io/Calculator/)
+[Click here! 🢅](https://hariom24777.github.io/Calculator/)
 
 This is a simple calculator web application built using HTML, CSS, and JavaScript.
 
